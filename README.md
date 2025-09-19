@@ -20,8 +20,9 @@ To build a detailed and interactive dashboard for HR teams and business leaders 
 - **Total Employees:** `2,925`
 - **Total Active Employees:** `2,433` (📈 83%)
 - **Attrition Count:** `492` (📉 17%)
-- **Average Age:** `37 Years`
-
+- **Average Age:** `37 Years`.
+  
+![](./images/HR_Attrition_Dashboard.png)
 ---
 
 ###  Attrition by Job Role
