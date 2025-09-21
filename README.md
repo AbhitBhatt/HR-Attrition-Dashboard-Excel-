@@ -114,6 +114,13 @@ To build a detailed and interactive dashboard for HR teams and business leaders 
 
 ---
 
+### Original & Transformed Dataset Screenshot
+
+![](./imagess/Original_Dataset_pic.png)
+
+![](./imagess/Dataset_After_Transformation_&_EDA.png)
+
+---
 ## 🛠 Tools & Technologies Used
 
 - 📘 Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
