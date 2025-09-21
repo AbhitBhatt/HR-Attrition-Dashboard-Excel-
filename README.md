@@ -22,7 +22,7 @@ To build a detailed and interactive dashboard for HR teams and business leaders 
 - **Attrition Count:** `492` (📉 17%)
 - **Average Age:** `37 Years`.
   
-![](./images/HR_Attrition_Dashboard.png)
+![](./imagess/HR_attrition_Dashboard.png)
 ---
 
 ###  Attrition by Job Role
